@@ -24,7 +24,12 @@ section {
 }
 
 .img {
-    size: 10% ;
+     width: 33% ;
+}
+
+.vangogh {
+    size: 15%
+    
 }
 
 .nav-link {
