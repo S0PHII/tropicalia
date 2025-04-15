@@ -23,6 +23,9 @@ section {
     padding-bottom: 5rem;
 }
 
+.img {
+    size: 20% ;
+}
 
 .nav-link {
     color: #ffffff;
